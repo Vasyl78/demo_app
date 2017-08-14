@@ -1,5 +1,5 @@
-# Ruby on Rails Tutorial: the first application
+# Ruby on Rails Tutorial: the second application
 
-This is the first application for
+This is the second application for
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
   [Michael Hartle](http://michaelhartl.com/).
